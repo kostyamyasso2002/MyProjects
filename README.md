@@ -1,3 +1,3 @@
 # MyProjects
 
-This is the collection of my projects in programming
+This is the collection of my projects in programming.
